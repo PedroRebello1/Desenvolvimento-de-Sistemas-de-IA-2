@@ -2,7 +2,7 @@
 
 Recomenda materiais didáticos (livros, artigos e vídeos) a alunos de ensino superior combinando
 **filtragem por conteúdo**, **filtragem colaborativa** e um **modelo baseado em conhecimento**
-(regras de pré-requisitos e requisitos acadêmicos). Projeto prático da AV2 de Sistemas de IA (CEUB).
+(regras de pré-requisitos e requisitos acadêmicos). Projeto prático da AV2 de Desenvolvimento de Sistemas de IA (CEUB).
 
 O relatório completo está em [`relatorio/Relatorio.pdf`](relatorio/Relatorio.pdf)
 (versão editável: [`relatorio/Relatorio.docx`](relatorio/Relatorio.docx)).

@@ -2,8 +2,8 @@
 title: |
   Sistema de Recomendação Híbrido\
   para Plataforma de Ensino
-subtitle: "Projeto Prático — AV2 · Sistemas de Inteligência Artificial · CEUB"
-author: "[Nome do aluno]"
+subtitle: "Projeto Prático — AV2 · Desenvolvimento de Sistemas de IA · CEUB"
+author: "Pedro Rebello Borges de Barros"
 date: 2026-10-26
 date-format: "D [de] MMMM [de] YYYY"
 lang: pt-BR
