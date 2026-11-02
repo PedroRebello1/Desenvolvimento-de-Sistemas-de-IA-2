@@ -9,8 +9,12 @@ O relatório completo está em [`relatorio/Relatorio.pdf`](relatorio/Relatorio.p
 
 ## Como executar
 
-Requer Python 3.10+. O arquivo `interacoes.csv` (466 MB) não está no repositório por causa do
-limite de tamanho do GitHub: copie-o para a raiz do projeto, ao lado dos outros dois CSVs.
+> [!IMPORTANT]
+> O arquivo `interacoes.csv` (466 MB) é grande demais para o GitHub (limite de 100 MB por arquivo)
+> e por isso **não está no repositório**. Antes de executar, insira-o manualmente na raiz do projeto,
+> ao lado de `dados_alunos.csv` e `materiais_didaticos.csv`. Sem ele, o `pipeline.py` não roda.
+
+Requer Python 3.10+.
 
 ```bash
 pip install -r requirements.txt
