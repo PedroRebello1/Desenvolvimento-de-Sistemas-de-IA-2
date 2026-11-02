@@ -1,5 +1,7 @@
 # Sistema de Recomendação Híbrido para Plataforma de Ensino
 
+[Vídeo de demonstração](https://youtu.be/bIMRksoBIZ4)
+
 Recomenda materiais didáticos (livros, artigos e vídeos) a alunos de ensino superior combinando
 **filtragem por conteúdo**, **filtragem colaborativa** e um **modelo baseado em conhecimento**
 (regras de pré-requisitos e requisitos acadêmicos). Projeto prático da AV2 de Desenvolvimento de Sistemas de IA (CEUB).
