@@ -1,0 +1,36 @@
+{
+  "pesos": {
+    "conteudo": 0.4,
+    "colaborativo": 0.3,
+    "conhecimento": 0.3
+  },
+  "coef_notas": {
+    "colaborativo": -0.021619304457432025,
+    "conteudo": -0.026180379985174345,
+    "conhecimento": -0.041765204257801,
+    "intercepto": 0.005422178302304176
+  },
+  "n_treino": 8331775,
+  "n_teste": 1668225,
+  "n_pares_notas": 33471,
+  "n_alunos_avaliados": 7394,
+  "n_candidatos": 10000,
+  "iteracoes_fc": 1,
+  "decisao_pesos": {
+    "melhor": {
+      "conteudo": 0.3,
+      "colaborativo": 0.1,
+      "conhecimento": 0.6
+    },
+    "NDCG@10 melhor": 0.0007915192109516772,
+    "NDCG@10 padrão": 0.0006461741023151509,
+    "diferenca_media": 0.00014534510863652627,
+    "IC95_diferenca": [
+      -0.00017976280132757526,
+      0.0004937690742420053
+    ],
+    "significativo": false,
+    "escolha": "padrão (diferença não significativa)"
+  },
+  "segundos": 283.9
+}

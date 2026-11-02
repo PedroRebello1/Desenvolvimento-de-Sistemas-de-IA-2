@@ -1,0 +1,147 @@
+{
+  "integridade": {
+    "n_interacoes": 10000000,
+    "n_alunos_cadastrados": 10000,
+    "n_materiais_cadastrados": 10000,
+    "alunos_distintos_nas_interacoes": 100000,
+    "materiais_distintos_nas_interacoes": 50000,
+    "id_aluno_max": 100000,
+    "id_material_max": 50000,
+    "com_aluno_cadastrado": 1000280,
+    "com_material_cadastrado": 1999550,
+    "com_ambos_cadastrados": 200622,
+    "ambos_esperado_se_independente": 200010.9874,
+    "valores_ausentes": 0
+  },
+  "distribuicoes": {
+    "avaliacao": {
+      "contagens": [
+        2000315,
+        1998541,
+        1998686,
+        2001687,
+        2000771
+      ],
+      "qui2": 3.697456,
+      "gl": 4,
+      "p": 0.44849604260856657
+    },
+    "tipo_interacao": {
+      "contagens": {
+        "visualizacao": 5000333,
+        "leitura": 4999667
+      },
+      "qui2": 0.0443556,
+      "gl": 1,
+      "p": 0.8331934094619706
+    },
+    "duracao": {
+      "min": 5,
+      "max": 240,
+      "media": 122.5053901,
+      "desvio": 68.1285334037569,
+      "qui2": 211.02125680000003,
+      "gl": 235,
+      "p": 0.8675878193281638
+    },
+    "data": {
+      "inicio": "2023-01-01",
+      "fim": "2023-12-31",
+      "por_mes": [
+        849510,
+        767443,
+        850209,
+        821850,
+        849780,
+        822624,
+        849668,
+        849774,
+        821381,
+        849536,
+        820354,
+        847871
+      ],
+      "qui2": 373.289087,
+      "gl": 364,
+      "p": 0.35716381177360046
+    },
+    "interacoes_por_aluno": {
+      "media": 100.0,
+      "min": 63,
+      "max": 149,
+      "dispersao": 1.0000438
+    },
+    "interacoes_por_material": {
+      "media": 200.0,
+      "min": 145,
+      "max": 263,
+      "dispersao": 0.9943532
+    }
+  },
+  "sinal": {
+    "avaliacao_x_tipo": {
+      "qui2": 0.9047608949295164,
+      "gl": 4,
+      "p": 0.9238768003153875,
+      "v_cramer": 0.0003007924358971675
+    },
+    "avaliacao_x_mes": {
+      "qui2": 47.64014366610803,
+      "gl": 44,
+      "p": 0.3268977462842439,
+      "v_cramer": 0.0010913311099994816
+    },
+    "avaliacao_x_duracao": {
+      "spearman_rho": -0.0013224156223791614,
+      "p": 0.061459137442026406,
+      "n_amostra": 2000000
+    },
+    "efeito_aluno": {
+      "F": 0.9956356610071647,
+      "gl_entre": 99999,
+      "gl_dentro": 9900000,
+      "p": 0.8342161086387168,
+      "eta2": 0.009956692581646104
+    },
+    "efeito_material": {
+      "F": 1.009732108141785,
+      "gl_entre": 49999,
+      "gl_dentro": 9950000,
+      "p": 0.06275764789194291,
+      "eta2": 0.005048314423533109
+    },
+    "estabilidade_aluno": {
+      "r": -0.0026781619554619644,
+      "p": 0.39705316481921604,
+      "n_grupos": 99999,
+      "minimo_por_metade": 20
+    },
+    "estabilidade_material": {
+      "r": 0.0035389972325958552,
+      "p": 0.42875346941760617,
+      "n_grupos": 50000,
+      "minimo_por_metade": 20
+    },
+    "avaliacao_x_perfil_obra": {
+      "F": 0.9332309812683737,
+      "gl_entre": 79,
+      "gl_dentro": 200542,
+      "p": 0.6465185700860067,
+      "eta2": 0.00036749485828809836
+    },
+    "escolha_obra_x_perfil": {
+      "qui2": 62.82814702434533,
+      "gl": 63,
+      "p": 0.4824020903455839,
+      "v_cramer": 0.00668865549607236
+    },
+    "pares_repetidos": {
+      "observado": 9928,
+      "esperado_se_aleatorio": 10000.0
+    }
+  },
+  "catalogo": {
+    "n_obras": 10,
+    "n_perfis": 8
+  }
+}

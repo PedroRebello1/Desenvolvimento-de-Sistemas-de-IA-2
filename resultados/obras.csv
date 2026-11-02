@@ -1,0 +1,11 @@
+id_obra,titulo,tipo,area,nivel,autor,copias
+0,Introdução a Algoritmos,livro,Programação,Iniciante,Thomas Cormen,1000
+1,Aprendendo Python,livro,Programação,Iniciante,Eric Matthes,1000
+2,ML Avançado,livro,IA,Avançado,Aurélien Géron,1000
+3,Estatística Básica,livro,Estatística,Iniciante,Mario Triola,1000
+4,Deep Learning,vídeo,IA,Intermediário,Andrew Ng,1000
+5,Gestão Ágil,artigo,Gestão,Intermediário,Jeff Sutherland,1000
+6,Segurança em Redes,livro,Segurança,Avançado,William Stallings,1000
+7,UX Moderno,artigo,UX,Intermediário,Don Norman,1000
+8,Banco de Dados NoSQL,livro,BD,Intermediário,Martin Fowler,1000
+9,IoT Prático,vídeo,IoT,Iniciante,Adafruit,1000

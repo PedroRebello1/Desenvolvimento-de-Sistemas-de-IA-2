@@ -1,0 +1,9 @@
+id_perfil,curso,periodo,disciplinas,interesses,alunos
+0,Engenharia de Software,5,"Algoritmos, Banco de Dados, IA","ML, Programação, Cloud",1250
+1,Ciência de Dados,3,"Estatística, Python, ML","IA, Visualização, Big Data",1250
+2,Engenharia de Computação,7,"Redes, SO, Arquitetura","IoT, Segurança, Hardware",1250
+3,Sistemas de Informação,4,"Gestão, Redes, BD","UX, PM, Analytics",1250
+4,Engenharia de Software,6,"BD, IA, Web","Mobile, DevOps, QA",1250
+5,Ciência de Dados,2,"Python, Estatística","NLP, Deep Learning",1250
+6,Engenharia de Computação,8,"Arquitetura, Compiladores","Robótica, Embedded",1250
+7,Sistemas de Informação,5,"UX, PM, BD","Marketing Digital, Analytics",1250

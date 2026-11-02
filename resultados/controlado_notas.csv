@@ -1,0 +1,7 @@
+modelo,n_pares,RMSE,MAE,pares
+Média global,41601,1.2152379815613028,1.0468843877580583,aluno e material cadastrados
+Vieses (μ + b_u + b_i),41601,1.1256756800677479,0.932725202572758,aluno e material cadastrados
+Conteúdo,41601,0.9811456425873244,0.779011084914153,aluno e material cadastrados
+Colaborativo,41601,1.053342352925879,0.8620614474050294,aluno e material cadastrados
+Conhecimento,41601,0.9965594275292649,0.8007844373820558,aluno e material cadastrados
+Híbrido,41601,0.9277991734651526,0.7339526612220889,aluno e material cadastrados

@@ -1,0 +1,10 @@
+modelo,n_pares,RMSE,MAE,pares
+Média global,33471,1.4100774314334958,1.196138913864152,aluno e material cadastrados
+Vieses (μ + b_u + b_i),33471,1.4217567246284586,1.2242861387424846,aluno e material cadastrados
+Conteúdo,33471,1.5230523762973878,1.2931729346243959,aluno e material cadastrados
+Colaborativo,33471,1.454769640064678,1.2530396777739934,aluno e material cadastrados
+Conhecimento,33471,1.4217601181836401,1.224315563574131,aluno e material cadastrados
+Híbrido,33471,1.4218443505121252,1.2243775244606239,aluno e material cadastrados
+Média global,1668225,1.4135515388062156,1.199278791666113,todo o teste
+Vieses (μ + b_u + b_i),1668225,1.4243513496321685,1.227068523241827,todo o teste
+Colaborativo,1668225,1.4564806942267878,1.25491544309886,todo o teste

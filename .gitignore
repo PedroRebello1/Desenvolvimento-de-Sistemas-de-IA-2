@@ -1,0 +1,34 @@
+# --- Dados e arquivos gerados -------------------------------------------------
+# interacoes.csv tem 466 MB (o GitHub recusa arquivos acima de 100 MB).
+# Coloque-o na raiz do projeto antes de rodar o pipeline.
+interacoes.csv
+# Cache Parquet, modelos treinados e log de eventos da demo: recriados por `python pipeline.py`.
+artefatos/
+
+# Intermediários do Quarto
+relatorio/*.typ
+!relatorio/estilo.typ
+relatorio/*_files/
+.quarto/
+
+# --- Python --------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# --- Editores, sistema e ferramentas de assistente ------------------------------
+.vscode/
+.idea/
+.claude/
+CLAUDE.md
+.cursor/
+.aider*
+.streamlit/secrets.toml
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
